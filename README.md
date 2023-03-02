@@ -1,4 +1,4 @@
-# E-Commerce App ABHISHEK KUMAR VISHEN
+# E-Commerce App deepak mishra
 
 A simple E-commerce application using React Js and Fake store API, it fetches products from fake store API.
 
@@ -6,7 +6,6 @@ A simple E-commerce application using React Js and Fake store API, it fetches pr
 
 # Deployment
 
-`<link>`: [Shopping Villa](https://shopping-villa.netlify.app/)
 
 # Features :-
 
