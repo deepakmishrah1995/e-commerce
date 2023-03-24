@@ -63,7 +63,7 @@ export default class AboutPage extends Component {
           </Accordion.Title>
           <Accordion.Content active={activeIndex === 1}>
             <p>
-              Hello, my name is Niketan Wadaskar, and I created this project. I
+              Hello, my name is deepak mishra, and I created this project. I
               am a front-end developer. I have completed my reactJS, html, CSS,
               and Javascript skills from Coding Ninjas. It was a really great
               experience to learn from such a great team. I have also done my
@@ -81,7 +81,7 @@ export default class AboutPage extends Component {
               to try new things. This is my thing. So this is all about me You
               can connect with me on{" "}
               <a
-                href="https://www.linkedin.com/in/niketan-wadaskar-3188321a0/"
+                href=""
                 target={"_blank"}
                 rel="noreferrer"
               >
@@ -109,7 +109,7 @@ export default class AboutPage extends Component {
               property, I used the redux middelewere. So yeah, all this is about
               Project Tech Stack.{" "}
               <a
-                href="https://github.com/nikuwadaskar/Ecommerce-React-app-ShoppingVilla-Practice"
+                href=""
                 target={"_blank"}
                 rel="noreferrer"
               >
